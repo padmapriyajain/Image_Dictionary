@@ -1,0 +1,28 @@
+Brief description about our reporting work means our solution tenants with respect to reporting
+
+      As part of the FUZE application, in reports module, we provide solutions for the below actions, to fulfill our business requirements.
+
+	1. Create new interactive Tableau dashboards to address business answers.
+	2. Update existing dashboards to be inline with emerging user needs and to track all key metrics.
+	3. Deploying reports in Tableau server and enabling the same in Fuze production environment.
+	4. Addressing production issues of various support tickets.
+	5. Maintaining reports artifacts
+
+2. Benefits to customer (Verizon ) through our reporting / Dashboards . 
+
+	1. Customers analysis on the business data will be faster and with ease.
+	2. Data driven business decisions and address customer pain points.
+	3.  High performance and intuitive dashboards help users to understand large data and meet key audit deadlines.
+	4. Timely delivery of critical dashboards as mid PI changes.
+	5. Users production report issues, data issues and extract refresh failures are also addressed immediately 
+	     to improve customer experience.
+
+3. Benefits to TCS:
+
+	1. Revenue 
+	2. As a team we follow good practices to build dashboards and SaFE framework to work.
+	3. Implementing best practices and embrace team with new technologies.
+	4. Experience in handling customer critical scenarios and timely delivery practices.
+	5. Acquire knowledge in handling various business domains related to telecommunication.
+
+
